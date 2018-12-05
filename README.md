@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(12/4/2018)
 
 ### Student Name:  
-(First and Last Name)
+(Keanu E. Snow)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Gaining expertise through using jQuery and manipulating code through browser console.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kes18e.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Creating interactive display through javascript.
+2. Manipulating elements and content displayed through console browser.
+3. Gained insight on various jQuery methods for HTML manipulating.
 
